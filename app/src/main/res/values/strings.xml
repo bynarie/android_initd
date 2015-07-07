@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Initd</string>
+    <string name="action_settings">Settings</string>
+    <string name="enable_initd">Enable Init.d&#160;&#160;</string>
+
+</resources>
